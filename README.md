@@ -1,4 +1,4 @@
-Data_Product_Project
+Data Product Project
 ====================
 
 server.R and ui.R files
